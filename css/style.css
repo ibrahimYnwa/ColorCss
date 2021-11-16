@@ -1,0 +1,122 @@
+/* p{
+
+    color: chartreuse;;
+} */
+
+/* *{
+    color: green;
+} */
+
+/* selectors */
+/* p{
+    color: red;
+}
+ 
+  classi cagirmaq ucun 
+
+.test{    
+    color: green;
+} 
+
+
+ Id ile cagirmaq
+#paragraph{
+
+    color: yellow;
+}   */
+
+/* .paragraph.test{
+    color: red;
+}
+
+.test1 .test2{
+    color: orange;
+} */
+
+/* p.intro{
+    color: greenyellow;
+} */
+
+/* p , span{
+    color: red;
+} */
+
+/* divin icinde olan p
+div p{
+    color: blue;
+} */
+
+/* divden sonra gelen p-ler
+div ~ p{ 
+    color: sienna;
+} */
+
+/* p nin ancag ust sevyesi div olmaldir
+div>p{
+    color: silver;
+} */
+
+/* ancaq class olan atribut
+[class]{
+    color: red;
+} */
+
+/* atribute beraberdi neyese,demeli source ve id de yaza bilerik
+[class=test]{
+    color: blue;
+} */
+
+/* p::after { 
+    content: " - Remember this";
+  } */
+
+  /* p:first-child {
+    background-color: yellow;
+  } */
+
+
+  /* *color  */
+
+  /* hec color rgb (red,green,blue) ;  */
+
+  /* p{
+      color: #52adeb
+  } */
+
+  /* 3-LU */
+  /* p{
+      color: rgb(0,255,0);
+  } */
+  
+  /* RGBA-ALPHA YA DEYER VERIB RENGI TONU DEYISIR */
+  /* p{
+      color: rgba(0,255,0,0.3);
+  } */
+
+  /* css background */
+
+  /* .main{
+      width: 400px;
+      height: 400px;
+      background-image: url(../img/pandasecurity-facebook-photo-privacy.jpg);
+  } */
+
+/* body{
+  background-image: url(../img/pandasecurity-facebook-photo-privacy.jpg);
+   background-position: no-repeat;
+} */
+
+div{
+    height: 600px;
+    background-image: url(../img/pandasecurity-facebook-photo-privacy.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom center;
+}
+
+
+
+
+
+
+
